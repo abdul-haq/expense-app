@@ -3,7 +3,7 @@ import AppReducer from "./AppReducer";
 
 // Initial state
 const initialState = {
-  difference: 167.0,
+  difference: 166.68,
   currentCurrency: "dollar",
   sign: "$",
   transactions: [],
